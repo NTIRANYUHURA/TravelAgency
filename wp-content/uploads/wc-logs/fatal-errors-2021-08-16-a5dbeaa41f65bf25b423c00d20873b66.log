@@ -2,3 +2,63 @@
 
 2021-08-16T21:10:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\TravelAgency\wp-includes\wp-db.php on line 2056
 
+2021-08-16T22:05:52+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(303): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\TravelAgency\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\TravelAgency\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\TravelAgency\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\TravelAgency\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2021-08-16T22:05:56+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(303): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\TravelAgency\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\TravelAgency\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\TravelAgency\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\TravelAgency\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2021-08-16T22:05:59+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(303): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\TravelAgency\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\TravelAgency\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\TravelAgency\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\TravelAgency\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2021-08-16T22:06:03+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(303): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\TravelAgency\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\TravelAgency\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\TravelAgency\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\TravelAgency\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php on line 221
+
+2021-08-16T22:06:11+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(303): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 C:\xampp\htdocs\TravelAgency\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\TravelAgency\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\TravelAgency\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 C:\xampp\htdocs\TravelAgency\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\TravelAgency\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\TravelAgency\wp-includes\customize\class-wp-customize-partial.php on line 221
+
