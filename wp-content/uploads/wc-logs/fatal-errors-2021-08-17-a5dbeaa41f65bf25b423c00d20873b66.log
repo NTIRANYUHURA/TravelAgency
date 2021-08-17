@@ -1,0 +1,4 @@
+2021-08-17T17:42:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\TravelAgency\wp-content\plugins\wpforms-lite\src\Admin\Loader.php on line 86
+
+2021-08-17T17:50:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\TravelAgency\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Notes\NoteTraits.php on line 12
+
